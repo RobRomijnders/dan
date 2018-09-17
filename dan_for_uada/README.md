@@ -1,0 +1,1 @@
+Robust and customizable Semantic Segmentation pipeline for training, evaluation and inference with Dense Convolutional Networks using Tensorflow.
