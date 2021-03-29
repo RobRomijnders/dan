@@ -59,7 +59,7 @@ ptyprocess==0.5.2
 py==1.5.2
 pycparser==2.18
 pygit2==0.26.3
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 PyQt5==5.9
 pytest==3.3.1
